@@ -1,6 +1,0 @@
-This is a simple example project for TurboGears users to have an idea about how to implement a file upload system with TurboGears
-
-This project was developed with TurboGears 2.0.3.
-
-You can create the database and the table with: paster setup-app development.ini
-You can start the server with: paster serve development.ini

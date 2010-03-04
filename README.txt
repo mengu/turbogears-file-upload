@@ -1,3 +1,6 @@
+This is a simple example project for TurboGears users to have an idea
+about how to implement a file upload system with TurboGears 2.0.3
+
 This file is for you to describe the fileupload application. Typically
 you would include information such as the information below:
 
@@ -22,3 +25,4 @@ While developing you may want the server to reload after changes in package file
     $ paster serve --reload development.ini
 
 Then you are ready to go.
+
