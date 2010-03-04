@@ -59,3 +59,4 @@ def init_model(engine):
     #mapper(Reflected, t_reflected)
 
 # Import your model modules here.
+from fileupload.model.userfile import UserFile
