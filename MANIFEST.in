@@ -1,0 +1,4 @@
+recursive-include fileupload/public *
+include fileupload/public/favicon.ico
+recursive-include fileupload/i18n *
+recursive-include fileupload/templates *
